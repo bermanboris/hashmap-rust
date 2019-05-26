@@ -1,0 +1,7 @@
+[package]
+name = "hashmap-rust"
+version = "0.1.0"
+authors = ["Boris Berman <boris@berman.solutions>"]
+edition = "2018"
+
+[dependencies]
